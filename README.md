@@ -89,7 +89,7 @@ Follow along on Medium for tutorials and builds.
 If this project helps you work smarter:
 - Give it a ⭐ on GitHub
 - Share it with your team
-- Follow Flowbit Labs on Medium
+- Follow Flowbit Labs on Medium - https://medium.com/@flowbitlabs
 
 This helps us build more tools like this.
 
