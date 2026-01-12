@@ -1,5 +1,10 @@
 # Flowbit AI Work Assistant (Flowbit Labs)
 
+![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
+![Open Source](https://img.shields.io/badge/open--source-yes-brightgreen.svg)
+
+
 A minimal, practical AI assistant you can run locally to:
 - plan your day (prioritize + time blocks)
 - rewrite text (emails/messages/paragraphs)
@@ -62,3 +67,29 @@ python assistant.py
 - Add “weekly review” mode
 - Save outputs to markdown files
 - Connect to Notion, Google Calendar, or a local notes folder
+
+
+## Roadmap
+
+Planned features:
+- Weekly review mode
+- Meeting preparation assistant
+- Research summarizer
+- Markdown knowledge base
+- Calendar integration
+- Notion integration
+- Local note search
+
+This project is built in public by Flowbit Labs.
+Follow along on Medium for tutorials and builds.
+
+
+## Support the Project
+
+If this project helps you work smarter:
+- Give it a ⭐ on GitHub
+- Share it with your team
+- Follow Flowbit Labs on Medium
+
+This helps us build more tools like this.
+
