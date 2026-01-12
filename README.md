@@ -55,3 +55,10 @@ FLOWBIT_MODEL=gpt-4o-mini
 ```bash
 python assistant.py
 ```
+
+
+### Customization ideas
+- Add a “meeting prep” mode (agenda + questions + summary)
+- Add “weekly review” mode
+- Save outputs to markdown files
+- Connect to Notion, Google Calendar, or a local notes folder
