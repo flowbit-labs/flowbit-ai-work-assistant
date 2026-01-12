@@ -26,4 +26,32 @@ This repo is designed to be easy to understand and easy to extend.
 ### 1) Clone
 ```bash
 git clone https://github.com/<your-username>/flowbit-ai-work-assistant.git
-cd flowbit-ai-work-assistant
+cd flowbit-ai-work-assistant 
+```
+
+### 2) Install
+```bash
+python -m venv .venv
+source .venv/bin/activate  # (Windows: .venv\Scripts\activate)
+pip install -r requirements.txt
+```
+
+### 3) Add your API key
+```bash
+cp .env.example .env
+```
+
+Edit .env:
+```bash
+OPENAI_API_KEY=YOUR_KEY_HERE
+```
+
+(Optional) set a model:
+```bash
+FLOWBIT_MODEL=gpt-4o-mini
+```
+
+### 4) Run
+```bash
+python assistant.py
+```
